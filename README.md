@@ -1,2 +1,1 @@
-# Pinnzy_
-Mari belajar desain...
+Bootstrap adalah framework front-end berbasis HTML, CSS, dan JavaScript yang dirancang untuk memudahkan dan mempercepat proses pengembangan web yang responsif dan mobile-first (memprioritaskan perangkat seluler). 
